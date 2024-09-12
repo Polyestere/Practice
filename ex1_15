@@ -1,0 +1,11 @@
+from math import hypot
+
+class Test():
+
+    def __repr__(self):
+        return 'repr test'
+
+    def __str__(self):
+        return 'str test'
+
+print(str(test))
