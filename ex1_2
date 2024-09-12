@@ -1,4 +1,4 @@
-impory collections
+import collections
 
 Card = collections.namedtuple('Card', ['rank','suit'])
 
