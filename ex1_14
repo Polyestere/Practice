@@ -1,0 +1,10 @@
+class Test():
+
+    def __repr__(self):
+        return 'repr test'
+
+    def __str__(self):
+        return 'str test'
+
+test = Test()
+test, str(test)
